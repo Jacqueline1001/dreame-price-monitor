@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data files (regenerated daily by Actions)
+*.db
+*.db-journal
+
+# Local configs with possible secrets - never commit filled values
+config_full.json
+config_test.json
+.env
+
+# Reference clones (open-source repos we borrowed from)
+reference/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
