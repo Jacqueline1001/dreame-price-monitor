@@ -1,44 +1,8 @@
 {
-  "generated_at": "2026-10-12T08:39:20.013614",
+  "generated_at": "2026-10-13T09:02:52.695727",
   "latest_prices": [
     {
-      "id": 8,
-      "product_id": "babylisspro-titanium",
-      "product_name": "BaBylissPRO Titanium",
-      "brand": "BaBylissPRO",
-      "category": "flat_iron",
-      "market": "AE",
-      "market_name": "UAE",
-      "platform": "amazon",
-      "platform_name": "Amazon",
-      "price": 191.68,
-      "currency": "AED",
-      "url": "",
-      "fetched_at": "2026-10-12T08:34:14.296311",
-      "changed": 0,
-      "old_price": null,
-      "change_pct": null
-    },
-    {
-      "id": 7,
-      "product_id": "babylisspro-titanium",
-      "product_name": "BaBylissPRO Titanium",
-      "brand": "BaBylissPRO",
-      "category": "flat_iron",
-      "market": "MX",
-      "market_name": "Mexico",
-      "platform": "amazon",
-      "platform_name": "Amazon",
-      "price": 2379.15,
-      "currency": "MXN",
-      "url": "",
-      "fetched_at": "2026-10-12T08:33:51.621004",
-      "changed": 0,
-      "old_price": null,
-      "change_pct": null
-    },
-    {
-      "id": 9,
+      "id": 6,
       "product_id": "babylisspro-titanium",
       "product_name": "BaBylissPRO Titanium",
       "brand": "BaBylissPRO",
@@ -50,13 +14,13 @@
       "price": 297.0,
       "currency": "SAR",
       "url": "",
-      "fetched_at": "2026-10-12T08:34:16.937660",
+      "fetched_at": "2026-10-13T08:57:35.845025",
       "changed": 0,
       "old_price": null,
       "change_pct": null
     },
     {
-      "id": 6,
+      "id": 5,
       "product_id": "dyson-corrale",
       "product_name": "Dyson Corrale",
       "brand": "Dyson",
@@ -65,16 +29,16 @@
       "market_name": "Saudi Arabia",
       "platform": "amazon",
       "platform_name": "Amazon",
-      "price": 1899.05,
+      "price": 1999.0,
       "currency": "SAR",
       "url": "",
-      "fetched_at": "2026-10-12T08:33:39.634849",
+      "fetched_at": "2026-10-13T08:56:33.059387",
       "changed": 0,
       "old_price": null,
       "change_pct": null
     },
     {
-      "id": 10,
+      "id": 7,
       "product_id": "remington-flat-iron",
       "product_name": "Remington Flat Iron",
       "brand": "Remington",
@@ -86,13 +50,31 @@
       "price": 158.04,
       "currency": "SAR",
       "url": "",
-      "fetched_at": "2026-10-12T08:35:29.309451",
+      "fetched_at": "2026-10-13T08:58:38.484397",
       "changed": 0,
       "old_price": null,
       "change_pct": null
     },
     {
-      "id": 11,
+      "id": 8,
+      "product_id": "dreame-pocket-ultra",
+      "product_name": "Dreame Pocket Ultra",
+      "brand": "Dreame",
+      "category": "hair_dryer",
+      "market": "AE",
+      "market_name": "UAE",
+      "platform": "amazon",
+      "platform_name": "Amazon",
+      "price": 499.0,
+      "currency": "AED",
+      "url": "",
+      "fetched_at": "2026-10-13T08:59:30.719074",
+      "changed": 0,
+      "old_price": null,
+      "change_pct": null
+    },
+    {
+      "id": 9,
       "product_id": "dreame-pocket-ultra",
       "product_name": "Dreame Pocket Ultra",
       "brand": "Dreame",
@@ -104,31 +86,31 @@
       "price": 584.74,
       "currency": "SAR",
       "url": "",
-      "fetched_at": "2026-10-12T08:36:32.299658",
+      "fetched_at": "2026-10-13T08:59:33.191726",
       "changed": 0,
       "old_price": null,
       "change_pct": null
     },
     {
-      "id": 12,
+      "id": 10,
       "product_id": "dyson-supersonic",
       "product_name": "Dyson Supersonic",
       "brand": "Dyson",
       "category": "hair_dryer",
-      "market": "BR",
-      "market_name": "Brazil",
+      "market": "MX",
+      "market_name": "Mexico",
       "platform": "amazon",
       "platform_name": "Amazon",
-      "price": 4368.03,
-      "currency": "BRL",
+      "price": 5332.88,
+      "currency": "MXN",
       "url": "",
-      "fetched_at": "2026-10-12T08:37:04.411642",
+      "fetched_at": "2026-10-13T08:59:45.071959",
       "changed": 0,
       "old_price": null,
       "change_pct": null
     },
     {
-      "id": 13,
+      "id": 11,
       "product_id": "dyson-supersonic",
       "product_name": "Dyson Supersonic",
       "brand": "Dyson",
@@ -140,13 +122,13 @@
       "price": 1199.0,
       "currency": "SAR",
       "url": "",
-      "fetched_at": "2026-10-12T08:37:27.298035",
+      "fetched_at": "2026-10-13T09:00:27.920157",
       "changed": 0,
       "old_price": null,
       "change_pct": null
     },
     {
-      "id": 16,
+      "id": 12,
       "product_id": "laifen-dryer",
       "product_name": "Laifen Hair Dryer",
       "brand": "Laifen",
@@ -158,103 +140,31 @@
       "price": 539.1,
       "currency": "SAR",
       "url": "",
-      "fetched_at": "2026-10-12T08:39:18.508058",
-      "changed": 0,
-      "old_price": null,
-      "change_pct": null
-    },
-    {
-      "id": 14,
-      "product_id": "shark-hyperair",
-      "product_name": "Shark HyperAir",
-      "brand": "Shark",
-      "category": "hair_dryer",
-      "market": "MX",
-      "market_name": "Mexico",
-      "platform": "amazon",
-      "platform_name": "Amazon",
-      "price": 2699.0,
-      "currency": "MXN",
-      "url": "",
-      "fetched_at": "2026-10-12T08:37:29.892608",
-      "changed": 0,
-      "old_price": null,
-      "change_pct": null
-    },
-    {
-      "id": 15,
-      "product_id": "shark-hyperair",
-      "product_name": "Shark HyperAir",
-      "brand": "Shark",
-      "category": "hair_dryer",
-      "market": "SA",
-      "market_name": "Saudi Arabia",
-      "platform": "amazon",
-      "platform_name": "Amazon",
-      "price": 1499.0,
-      "currency": "SAR",
-      "url": "",
-      "fetched_at": "2026-10-12T08:38:12.735839",
+      "fetched_at": "2026-10-13T09:02:51.192196",
       "changed": 0,
       "old_price": null,
       "change_pct": null
     },
     {
       "id": 1,
-      "product_id": "dreame-airstyle-pro",
-      "product_name": "Dreame Airstyle Pro",
-      "brand": "Dreame",
+      "product_id": "dyson-airwrap",
+      "product_name": "Dyson Airwrap",
+      "brand": "Dyson",
       "category": "styler",
       "market": "AE",
       "market_name": "UAE",
       "platform": "amazon",
       "platform_name": "Amazon",
-      "price": 1171.12,
+      "price": 1596.0,
       "currency": "AED",
       "url": "",
-      "fetched_at": "2026-10-12T08:30:18.168103",
+      "fetched_at": "2026-10-13T08:54:38.444342",
       "changed": 0,
       "old_price": null,
       "change_pct": null
     },
     {
       "id": 2,
-      "product_id": "dreame-airstyle-pro",
-      "product_name": "Dreame Airstyle Pro",
-      "brand": "Dreame",
-      "category": "styler",
-      "market": "SA",
-      "market_name": "Saudi Arabia",
-      "platform": "amazon",
-      "platform_name": "Amazon",
-      "price": 1199.0,
-      "currency": "SAR",
-      "url": "",
-      "fetched_at": "2026-10-12T08:30:21.004875",
-      "changed": 0,
-      "old_price": null,
-      "change_pct": null
-    },
-    {
-      "id": 3,
-      "product_id": "dyson-airwrap",
-      "product_name": "Dyson Airwrap",
-      "brand": "Dyson",
-      "category": "styler",
-      "market": "MX",
-      "market_name": "Mexico",
-      "platform": "amazon",
-      "platform_name": "Amazon",
-      "price": 9999.0,
-      "currency": "MXN",
-      "url": "",
-      "fetched_at": "2026-10-12T08:30:32.874710",
-      "changed": 0,
-      "old_price": null,
-      "change_pct": null
-    },
-    {
-      "id": 4,
       "product_id": "dyson-airwrap",
       "product_name": "Dyson Airwrap",
       "brand": "Dyson",
@@ -266,25 +176,43 @@
       "price": 2033.0,
       "currency": "SAR",
       "url": "",
-      "fetched_at": "2026-10-12T08:31:15.555324",
+      "fetched_at": "2026-10-13T08:54:41.151085",
       "changed": 0,
       "old_price": null,
       "change_pct": null
     },
     {
-      "id": 5,
+      "id": 3,
       "product_id": "shark-flexstyle",
       "product_name": "Shark FlexStyle",
       "brand": "Shark",
       "category": "styler",
-      "market": "MX",
-      "market_name": "Mexico",
+      "market": "AE",
+      "market_name": "UAE",
       "platform": "amazon",
       "platform_name": "Amazon",
-      "price": 3717.75,
-      "currency": "MXN",
+      "price": 936.0,
+      "currency": "AED",
       "url": "",
-      "fetched_at": "2026-10-12T08:31:27.628652",
+      "fetched_at": "2026-10-13T08:55:23.749946",
+      "changed": 0,
+      "old_price": null,
+      "change_pct": null
+    },
+    {
+      "id": 4,
+      "product_id": "shark-flexstyle",
+      "product_name": "Shark FlexStyle",
+      "brand": "Shark",
+      "category": "styler",
+      "market": "SA",
+      "market_name": "Saudi Arabia",
+      "platform": "amazon",
+      "platform_name": "Amazon",
+      "price": 825.59,
+      "currency": "SAR",
+      "url": "",
+      "fetched_at": "2026-10-13T08:55:26.395873",
       "changed": 0,
       "old_price": null,
       "change_pct": null
@@ -293,116 +221,88 @@
   "recent_changes": [],
   "price_history": [
     {
-      "product_id": "dreame-airstyle-pro",
+      "product_id": "dyson-airwrap",
       "market": "AE",
       "platform": "amazon",
-      "price": 1171.12,
-      "fetched_at": "2026-10-12T08:30:18.168103"
-    },
-    {
-      "product_id": "dreame-airstyle-pro",
-      "market": "SA",
-      "platform": "amazon",
-      "price": 1199.0,
-      "fetched_at": "2026-10-12T08:30:21.004875"
-    },
-    {
-      "product_id": "dyson-airwrap",
-      "market": "MX",
-      "platform": "amazon",
-      "price": 9999.0,
-      "fetched_at": "2026-10-12T08:30:32.874710"
+      "price": 1596.0,
+      "fetched_at": "2026-10-13T08:54:38.444342"
     },
     {
       "product_id": "dyson-airwrap",
       "market": "SA",
       "platform": "amazon",
       "price": 2033.0,
-      "fetched_at": "2026-10-12T08:31:15.555324"
+      "fetched_at": "2026-10-13T08:54:41.151085"
     },
     {
       "product_id": "shark-flexstyle",
-      "market": "MX",
+      "market": "AE",
       "platform": "amazon",
-      "price": 3717.75,
-      "fetched_at": "2026-10-12T08:31:27.628652"
+      "price": 936.0,
+      "fetched_at": "2026-10-13T08:55:23.749946"
+    },
+    {
+      "product_id": "shark-flexstyle",
+      "market": "SA",
+      "platform": "amazon",
+      "price": 825.59,
+      "fetched_at": "2026-10-13T08:55:26.395873"
     },
     {
       "product_id": "dyson-corrale",
       "market": "SA",
       "platform": "amazon",
-      "price": 1899.05,
-      "fetched_at": "2026-10-12T08:33:39.634849"
-    },
-    {
-      "product_id": "babylisspro-titanium",
-      "market": "MX",
-      "platform": "amazon",
-      "price": 2379.15,
-      "fetched_at": "2026-10-12T08:33:51.621004"
-    },
-    {
-      "product_id": "babylisspro-titanium",
-      "market": "AE",
-      "platform": "amazon",
-      "price": 191.68,
-      "fetched_at": "2026-10-12T08:34:14.296311"
+      "price": 1999.0,
+      "fetched_at": "2026-10-13T08:56:33.059387"
     },
     {
       "product_id": "babylisspro-titanium",
       "market": "SA",
       "platform": "amazon",
       "price": 297.0,
-      "fetched_at": "2026-10-12T08:34:16.937660"
+      "fetched_at": "2026-10-13T08:57:35.845025"
     },
     {
       "product_id": "remington-flat-iron",
       "market": "SA",
       "platform": "amazon",
       "price": 158.04,
-      "fetched_at": "2026-10-12T08:35:29.309451"
+      "fetched_at": "2026-10-13T08:58:38.484397"
+    },
+    {
+      "product_id": "dreame-pocket-ultra",
+      "market": "AE",
+      "platform": "amazon",
+      "price": 499.0,
+      "fetched_at": "2026-10-13T08:59:30.719074"
     },
     {
       "product_id": "dreame-pocket-ultra",
       "market": "SA",
       "platform": "amazon",
       "price": 584.74,
-      "fetched_at": "2026-10-12T08:36:32.299658"
+      "fetched_at": "2026-10-13T08:59:33.191726"
     },
     {
       "product_id": "dyson-supersonic",
-      "market": "BR",
+      "market": "MX",
       "platform": "amazon",
-      "price": 4368.03,
-      "fetched_at": "2026-10-12T08:37:04.411642"
+      "price": 5332.88,
+      "fetched_at": "2026-10-13T08:59:45.071959"
     },
     {
       "product_id": "dyson-supersonic",
       "market": "SA",
       "platform": "amazon",
       "price": 1199.0,
-      "fetched_at": "2026-10-12T08:37:27.298035"
-    },
-    {
-      "product_id": "shark-hyperair",
-      "market": "MX",
-      "platform": "amazon",
-      "price": 2699.0,
-      "fetched_at": "2026-10-12T08:37:29.892608"
-    },
-    {
-      "product_id": "shark-hyperair",
-      "market": "SA",
-      "platform": "amazon",
-      "price": 1499.0,
-      "fetched_at": "2026-10-12T08:38:12.735839"
+      "fetched_at": "2026-10-13T09:00:27.920157"
     },
     {
       "product_id": "laifen-dryer",
       "market": "SA",
       "platform": "amazon",
       "price": 539.1,
-      "fetched_at": "2026-10-12T08:39:18.508058"
+      "fetched_at": "2026-10-13T09:02:51.192196"
     }
   ]
 }
